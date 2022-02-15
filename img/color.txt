@@ -1,0 +1,7 @@
+primary : #312B7D
+secondary : #7E76F9
+success : #43B943
+danger : #FC6681
+warning : #EAB302
+grey : #42495B
+text-muted : #7A839E
